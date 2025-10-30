@@ -27,7 +27,8 @@ It integrates a **machine learning module** that predicts next month’s meal ex
 | APIs            | ORDS                                  |
 
 
----
+--- 
+<img width="450" height="467" alt="image" src="https://github.com/user-attachments/assets/3f138e9f-fc26-4c92-8b0a-3f04952855b1" />
 
 ## ⚙️ How to Import APEX Application
 1. Log in to Oracle APEX  
@@ -45,6 +46,5 @@ The system predicts next month’s meal expenses based on historical data using 
 ```bash
 pip install -r requirements.txt
 
-<img width="450" height="467" alt="image" src="https://github.com/user-attachments/assets/3f138e9f-fc26-4c92-8b0a-3f04952855b1" />
 
         
