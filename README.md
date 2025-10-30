@@ -45,5 +45,6 @@ The system predicts next month’s meal expenses based on historical data using 
 ```bash
 pip install -r requirements.txt
 
-<img width="445" height="805" alt="image" src="https://github.com/user-attachments/assets/acb8c046-f457-46c1-af9c-27058f5244d1" />
+<img width="450" height="467" alt="image" src="https://github.com/user-attachments/assets/3f138e9f-fc26-4c92-8b0a-3f04952855b1" />
+
         
